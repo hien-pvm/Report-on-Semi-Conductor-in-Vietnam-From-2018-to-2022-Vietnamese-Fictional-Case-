@@ -1,5 +1,4 @@
 # Report on Semi-Conductor Sector in Vietnam (From 2018 to 2022) (Fictional Case)
-Using PowerBI to analyze the financial performance from financial report of 1,085 semi-conductor companies in Vietnam from 2018 to 2022 (Note: This case is a fictional one to serve in a competition for bachelor student)
 
 ## I. Introduction
 The report utilizes financial statement data from 1,085 companies in Vietnam's semiconductor industry combined with data from market research sources. The objective of the report is to provide an overview of the semiconductor market, key trends, and factors impacting the industry.
