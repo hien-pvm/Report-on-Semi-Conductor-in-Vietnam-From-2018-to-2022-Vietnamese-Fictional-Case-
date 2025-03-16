@@ -15,4 +15,9 @@ Analyze the financial health of Semi-Conductor industry using their financial re
 
 
 ## IV. Dashboard
+![G'CONTEST 2024  AC_Bài làm Vòng 2 (2)-22](https://github.com/user-attachments/assets/fb6bb35f-203e-4183-a2fd-ce5a89f51a90)
 ![G'CONTEST 2024  AC_Bài làm Vòng 2 (2)-23](https://github.com/user-attachments/assets/acb52797-fcee-4b09-8c2e-bf4fa5dd9d3d)
+![G'CONTEST 2024  AC_Bài làm Vòng 2 (2)-24](https://github.com/user-attachments/assets/cea98f26-72ef-49af-adeb-108210320164)
+![G'CONTEST 2024  AC_Bài làm Vòng 2 (2)-25](https://github.com/user-attachments/assets/e3b005d8-7e3e-420f-9de5-5635275be9b2)
+![G'CONTEST 2024  AC_Bài làm Vòng 2 (2)-26](https://github.com/user-attachments/assets/447375e3-90bf-47bf-b6ec-ddad93aa17ee)
+![G'CONTEST 2024  AC_Bài làm Vòng 2 (2)-27](https://github.com/user-attachments/assets/dc64e8e7-d750-447b-a319-1422447135ab)
