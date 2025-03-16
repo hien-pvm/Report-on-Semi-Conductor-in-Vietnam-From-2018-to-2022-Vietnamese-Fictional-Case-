@@ -4,7 +4,7 @@
 The report utilizes financial statement data from 1,085 companies in Vietnam's semiconductor industry combined with data from market research sources. The objective of the report is to provide an overview of the semiconductor market, key trends, and factors impacting the industry.
 
 ## II. Data
-Under the regulation of the competition, the data is not allowed to publicize. However, the data dictionary and the schema can be access in the link below.
+Under the regulation of the competition, the data is not allowed to publicize. However, the data dictionary and the schema can be access in the link below. [Data Dictionary](https://docs.google.com/spreadsheets/d/1Hi6r1fK-UYfTTImwKkS5uUz9N_x-6-Zmi-dev1h7B80/edit?usp=sharing)
 
 ## III. Focus Area
 Analyze the financial health of Semi-Conductor industry using their financial report, including: <br />
