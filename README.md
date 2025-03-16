@@ -4,14 +4,15 @@
 The report utilizes financial statement data from 1,085 companies in Vietnam's semiconductor industry combined with data from market research sources. The objective of the report is to provide an overview of the semiconductor market, key trends, and factors impacting the industry.
 
 ## II. Data
-Under the regulation of the competition, the data is not allowed to publicize. However, the data dictionary and the schema can be access in the link below. [Data Dictionary](https://docs.google.com/spreadsheets/d/1Hi6r1fK-UYfTTImwKkS5uUz9N_x-6-Zmi-dev1h7B80/edit?usp=sharing)
+Under the regulation of the competition, the data is not allowed to publicize. However, the data dictionary can be access in the link below.<br />
+[Data Dictionary](https://docs.google.com/spreadsheets/d/1Hi6r1fK-UYfTTImwKkS5uUz9N_x-6-Zmi-dev1h7B80/edit?usp=sharing)
 
 ## III. Focus Area
 Analyze the financial health of Semi-Conductor industry using their financial report, including: <br />
 &emsp;**1. Balance Sheet:** Focus on Current Ratio, Quick Ratio, and Debt-to-Equity Ratio <br />
 &emsp;**2. Income Statement:** Focus on Revenue, Cost of Goods Sold, Profitability Ratios, and Expenses <br />
-&emsp;**3. Cash Flow Statement:** Focus on three types of cash flow <br />
-&emsp;**4. Other Ratios:** Focus on interest coverage ratio, and the growth rate of Revenue, Inventories, and Operating Cash Flow <br />
+&emsp;**3. Cash Flow Statement:** Focus on Cash Flow From Operating Activities, Cash Flows From Investing Activities, Cash Flow From Financing Activities, and especially Net Cash Flow <br />
+&emsp;**4. Other Ratios:** Focus on Interest Coverage Ratio, and the Growth Rate of Revenue, Inventories, and Operating Cash Flow <br />
 
 
 ## IV. Dashboard
