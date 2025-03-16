@@ -13,4 +13,6 @@ Analyze the financial health of Semi-Conductor industry using their financial re
 &emsp;**3. Cash Flow Statement:** Focus on three types of cash flow <br />
 &emsp;**4. Other Ratios:** Focus on interest coverage ratio, and the growth rate of Revenue, Inventories, and Operating Cash Flow <br />
 
+
 ## IV. Dashboard
+![G'CONTEST 2024  AC_Bài làm Vòng 2 (2)-23](https://github.com/user-attachments/assets/acb52797-fcee-4b09-8c2e-bf4fa5dd9d3d)
